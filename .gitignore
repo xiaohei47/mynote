@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.shiye
+*.log
+
+legacy_backup/
+
+*.sqlite
+*.sqlite-*
